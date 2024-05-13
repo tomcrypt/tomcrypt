@@ -1,6 +1,6 @@
 ### Thomas Eisenbarth
 
-I am Professor for IT Security at University of Lübeck. My research interests are in: 
+Hi there, I am a Professor for IT Security at University of Lübeck. My research interests are in: 
  * Applied Cryptology
  * Systems security and secure computer architecture
  * Side channel analysis and prevention
